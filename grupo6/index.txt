@@ -1,11 +1,13 @@
-1 -
-2 -
+1 - Caio Felipe 2023211510075
+2 - André Moreira 2023211510048
 3 - Lucas Fragoso 2023211510070
-4 -
-5 -
-6 -
-7 -
-8 -
-9 -
-10 -
-11 -
+4 - Juan Fiuza 2023211510088
+5 - Ranyellisson 2023211510067
+6 - Matheus Everton 2023111510022
+7 -Gabriel  André Nascimento Gonçalves de Oliveira 2023211510065
+8 - Marcone Neto 2023211510053
+9 -Marinaldo salviano da silva 2023211510086
+10 -Leonardo Leite Marinho 2023211510024
+11 -Reinaldo Lira de Sousa 2023210220007
+12 - Matheus Siqueira Santos 2023211510076
+13 -lucas assuncao 2023211510085
